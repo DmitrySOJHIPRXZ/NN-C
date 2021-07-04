@@ -4,6 +4,7 @@
 
 int main()
 {
+	//нейроная сеть
 	Neuron InputCounts[5];
 	for (int i = 0; i < 5; i++)
 	{
